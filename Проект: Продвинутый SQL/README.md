@@ -12,7 +12,7 @@
 
 * `Question` — пост с вопросом;
 * `Answer` — пост с ответом.
-* 
+
 ![](https://github.com/SuvorovaTV/yandex-praktikum-projects/blob/main/Проект:%20Продвинутый%20SQL/post_types.png)
 
 Таблица `stackoverflow.posts`
