@@ -188,4 +188,4 @@
 
 `updated_at` — дата и время обновления записи в таблице.
 
-![](https://github.com /SuvorovaTV/yandex-praktikum-projects/blob/main/Проект:БазовыйSQL/Image(1).png)
+![](https://github.com/SuvorovaTV/yandex-praktikum-projects/blob/main/Проект:%20Базовый%20SQL/Image%20(1).png)
