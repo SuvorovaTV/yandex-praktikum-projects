@@ -1,5 +1,6 @@
 ![](https://github.com/SuvorovaTV/yandex-praktikum-projects/blob/main/Проект:%20Продвинутый%20SQL/Image%20(2).png)
-
+![](https://github.com/SuvorovaTV/yandex-praktikum-projects/blob/main/Проект:%20Продвинутый%20SQL/Image%20(3).png)
+![](https://github.com/SuvorovaTV/yandex-praktikum-projects/blob/main/Проект:%20Продвинутый%20SQL/Image%20(4).png)
 Таблица `stackoverflow.badges`
 
 Хранит информацию о значках, которые присуждаются за разные достижения. 
