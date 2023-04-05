@@ -49,7 +49,7 @@
 - `book_id` — идентификатор книги;
 - `username` — имя пользователя, написавшего обзор;
 - `text` — текст обзора.
-![]([ссылка на скрин лежащий в репозитории проекта](https://github.com/SuvorovaTV/yandex-praktikum-projects/blob/main/sql/scheme_1589269096.png))
+![](https://github.com/SuvorovaTV/yandex-praktikum-projects/blob/main/sql/scheme_1589269096.png)
 
 ### Задания
 
