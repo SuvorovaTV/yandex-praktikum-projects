@@ -6,7 +6,7 @@
 * _Дашборд:_
 https://public.tableau.com/views/_16799215021920/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-# Задача**:**
+# Задача:
 
 Проанализировать клиентов регионального банка и выделить сегменты клиентов, которые склонны уходить из банка.
 
