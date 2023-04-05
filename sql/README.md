@@ -49,7 +49,7 @@
 - `book_id` — идентификатор книги;
 - `username` — имя пользователя, написавшего обзор;
 - `text` — текст обзора.
-![Image alt](https://github.com/{SuvorovaTV}/{yandex-praktikum-projects}/raw/{branch}/{path}/scheme_1589269096.png)
+![Image alt](https://github.com/{SuvorovaTV}/{yandex-praktikum-projects}/raw/{sql}/{path}/scheme_1589269096.png)
 ### Задания
 
 - Посчитайте, сколько книг вышло после 1 января 2000 года;
